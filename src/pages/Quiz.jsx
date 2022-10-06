@@ -77,7 +77,7 @@ class Quiz extends React.Component {
         return (
         <>
         <EndQuiz numCorrect={this.state.numCorrect} />,
-        <button>Home</button>
+        
         </>
         );
     }
