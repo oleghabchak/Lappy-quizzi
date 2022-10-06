@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "A simple React quiz app.",
     "scripts": {
+        "start": "react-scripts start",
         "build": "npx parcel build src/index.html",
         "serve": "npx parcel src/index.html"
     },
