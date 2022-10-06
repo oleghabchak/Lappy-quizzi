@@ -135,27 +135,27 @@ function Home(props) {
             <div className="flex flex-row flex-wrap justify-center ">
                 <SubjectCard100
                     id="15"
-                    subject="100"
+                    subject="400"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="14"
-                    subject="100"
+                    subject="400"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="13"
-                    subject="100"
+                    subject="400"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="12"
-                    subject="100"
+                    subject="400"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="11"
-                    subject="100"
+                    subject="400"
                     onClick={onClick}
                 />
               
@@ -163,27 +163,27 @@ function Home(props) {
             <div className="flex flex-row flex-wrap justify-center ">
                 <SubjectCard100
                     id="10"
-                    subject="100"
+                    subject="500"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="9"
-                    subject="100"
+                    subject="500"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="8"
-                    subject="100"
+                    subject="500"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="7"
-                    subject="100"
+                    subject="500"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="6"
-                    subject="100"
+                    subject="500"
                     onClick={onClick}
                 />
               
