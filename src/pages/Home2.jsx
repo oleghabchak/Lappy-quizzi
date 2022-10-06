@@ -3,7 +3,7 @@ import Header from "../components/Header";
 import SubjectCard100 from "../components/SubjectCard100";
 import geoIcon from "../images/geography.svg";
 import histIcon from "../images/history.svg";
-import sciIcon from "../images/science.svg";
+import sciIcon from "../images/penis.png";
 import spaceIcon from "../images/18+.svg";
 
 function Home2(props) {
