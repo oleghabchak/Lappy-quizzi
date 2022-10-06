@@ -21,9 +21,9 @@ class App extends React.Component {
 
     render() {
         if (this.state.page === "home") {
-            // return <Home onClick={this.handleClick} />;
+            return <Home onClick={this.handleClick} />;
             // return <Home2 onClick={this.handleClick} />;
-            return <Home3 onClick={this.handleClick} />;
+            // return <Home3 onClick={this.handleClick} />;
         }
 
         return <Quiz subject={this.state.subject} />;

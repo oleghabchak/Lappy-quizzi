@@ -107,27 +107,27 @@ function Home(props) {
             <div className="flex flex-row flex-wrap justify-center ">
                 <SubjectCard100
                     id="34r"
-                    subject="100"
+                    subject="300"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="1f"
-                    subject="100"
+                    subject="300"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="17"
-                    subject="100"
+                    subject="300"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="16"
-                    subject="100"
+                    subject="300"
                     onClick={onClick}
                 />
                 <SubjectCard100
                     id="1234"
-                    subject="100"
+                    subject="300"
                     onClick={onClick}
                 />
               
