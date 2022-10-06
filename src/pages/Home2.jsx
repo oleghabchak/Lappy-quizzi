@@ -4,7 +4,7 @@ import SubjectCard100 from "../components/SubjectCard100";
 import geoIcon from "../images/geography.svg";
 import histIcon from "../images/history.svg";
 import sciIcon from "../images/science.svg";
-import spaceIcon from "../images/space.svg";
+import spaceIcon from "../images/18+.svg";
 
 function Home2(props) {
     const onClick = props.onClick;
