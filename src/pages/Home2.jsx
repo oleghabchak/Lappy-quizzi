@@ -10,6 +10,7 @@ function Home2(props) {
     const onClick = props.onClick;
     return (
         <div>
+            
             <Header>Виберіть категорію 2-ДНЯ:</Header>
             <div className="flex flex-row flex-wrap justify-center ">
                 <SubjectCard
