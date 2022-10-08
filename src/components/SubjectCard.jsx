@@ -9,7 +9,7 @@ function SubjectCard(props) {
                 <img
                     src={props.imgSrc}
                     alt={props.imgAlt}
-                    width="100"
+                    width="80"
                     height="80"
                 />
             </div>

@@ -1,108 +1,49 @@
 import SubjectCard from "../components/SubjectCard";
 import Header from "../components/Header";
 import SubjectCard100 from "../components/SubjectCard100";
-import geoIcon from "../images/geography.svg";
+import geoIcon from "../images/penis.png";
 import histIcon from "../images/history.svg";
 import sciIcon from "../images/science.svg";
 import spaceIcon from "../images/space.svg";
+import spaceIcon1 from "../images/18+.svg";
 
 function Home(props) {
     const onClick = props.onClick;
     return (
         <div>
+            
             <Header>Виберіть категорію 1-ДНЯ:</Header>
             <div className="flex flex-row flex-wrap justify-center ">
                 <SubjectCard
-                    id="3g45g"
                     imgSrc={geoIcon}
                     imgAlt="An illustration of a globe"
-                    subject="Geography"
+                    subject="КАТЕГОРІЇ ПОРНО"
                     onClick={onClick}
                 />
                 <SubjectCard
-                    id="44t"
                     imgSrc={histIcon}
                     imgAlt="An illustration of a shield"
-                    subject="History"
+                    subject="УКРАЇНА"
                     onClick={onClick}
                 />
                 <SubjectCard
-                    id="54g4"
                     imgSrc={sciIcon}
                     imgAlt="An illustration of a beaker"
-                    subject="Science"
+                    subject="ФІЗИКА"
                     onClick={onClick}
                 />
                 <SubjectCard
-                    id="4g"
                     imgSrc={spaceIcon}
                     imgAlt="An illustration of a meteor"
-                    subject="Space"
+                    subject="СМАКОТУЛЬКА"
                     onClick={onClick}
                 />
                 <SubjectCard
-                    id="5m"
-                    imgSrc={spaceIcon}
+                    imgSrc={spaceIcon1}
                     imgAlt="An illustration of a meteor"
-                    subject="Уличне"
+                    subject="ВАПРІОРІ"
                     onClick={onClick}
                 />
-            </div>
-            <div className="flex flex-row flex-wrap justify-center ">
-                <SubjectCard100
-                    subject="100"
-                    id="1"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="2"
-                    subject="100"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="f4"
-                    subject="100"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="3d"
-                    subject="100"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="4th"
-                    subject="100"
-                    onClick={onClick}
-                />
-              
-            </div>
-            <div className="flex flex-row flex-wrap justify-center ">
-                <SubjectCard100
-                    id="4g"
-                    subject="200"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="8fr"
-                    subject="200"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="5t"
-                    subject="200"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="hj5"
-                    subject="200"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="45g"
-                    subject="200"
-                    onClick={onClick}
-                />
-              
             </div>
             <div className="flex flex-row flex-wrap justify-center ">
                 <SubjectCard100
@@ -184,6 +125,62 @@ function Home(props) {
                 <SubjectCard100
                     id="6"
                     subject="500"
+                    onClick={onClick}
+                />
+              
+            </div>
+            <div className="flex flex-row flex-wrap justify-center ">
+                <SubjectCard100
+                    id="60"
+                    subject="600"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="69"
+                    subject="600"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="e6"
+                    subject="600"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="67"
+                    subject="600"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="6g"
+                    subject="600"
+                    onClick={onClick}
+                />
+              
+            </div>
+            <div className="flex flex-row flex-wrap justify-center ">
+                <SubjectCard100
+                    id="70gr"
+                    subject="700"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="7reg9"
+                    subject="700"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="7ge6"
+                    subject="700"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="7efr7"
+                    subject="700"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="7efg"
+                    subject="700"
                     onClick={onClick}
                 />
               

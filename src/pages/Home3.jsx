@@ -15,7 +15,7 @@ function Home3(props) {
                 <SubjectCard
                     imgSrc={geoIcon}
                     imgAlt="An illustration of a globe"
-                    subject="Geography"
+                    subject="КАТЕГОРІЇ ПОРНО"
                     onClick={onClick}
                 />
                 <SubjectCard
