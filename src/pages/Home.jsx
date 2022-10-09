@@ -13,6 +13,7 @@ function Home(props) {
         <div>
             
             <Header>Виберіть категорію 1-ДНЯ:</Header>
+            
             <div className="flex flex-row flex-wrap justify-center ">
                 <SubjectCard
                     imgSrc={geoIcon}
@@ -44,6 +45,62 @@ function Home(props) {
                     subject="ВАПРІОРІ"
                     onClick={onClick}
                 />
+            </div>
+            <div className="flex flex-row flex-wrap justify-center ">
+                <SubjectCard100
+                    id="60"
+                    subject="100"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="69"
+                    subject="100"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="e6"
+                    subject="100"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="67"
+                    subject="100"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="6g"
+                    subject="100"
+                    onClick={onClick}
+                />
+              
+            </div>
+            <div className="flex flex-row flex-wrap justify-center ">
+                <SubjectCard100
+                    id="70gr"
+                    subject="200"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="7reg9"
+                    subject="200"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="7ge6"
+                    subject="200"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="7efr7"
+                    subject="200"
+                    onClick={onClick}
+                />
+                <SubjectCard100
+                    id="7efg"
+                    subject="200"
+                    onClick={onClick}
+                />
+              
             </div>
             <div className="flex flex-row flex-wrap justify-center ">
                 <SubjectCard100
@@ -129,62 +186,7 @@ function Home(props) {
                 />
               
             </div>
-            <div className="flex flex-row flex-wrap justify-center ">
-                <SubjectCard100
-                    id="60"
-                    subject="600"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="69"
-                    subject="600"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="e6"
-                    subject="600"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="67"
-                    subject="600"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="6g"
-                    subject="600"
-                    onClick={onClick}
-                />
-              
-            </div>
-            <div className="flex flex-row flex-wrap justify-center ">
-                <SubjectCard100
-                    id="70gr"
-                    subject="700"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="7reg9"
-                    subject="700"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="7ge6"
-                    subject="700"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="7efr7"
-                    subject="700"
-                    onClick={onClick}
-                />
-                <SubjectCard100
-                    id="7efg"
-                    subject="700"
-                    onClick={onClick}
-                />
-              
-            </div>
+            
         </div>
     );
 }

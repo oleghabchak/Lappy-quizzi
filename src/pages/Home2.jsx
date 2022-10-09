@@ -4,7 +4,8 @@ import SubjectCard100 from "../components/SubjectCard100";
 import geoIcon from "../images/geography.svg";
 import histIcon from "../images/history.svg";
 import sciIcon from "../images/penis.png";
-import spaceIcon from "../images/18+.svg";
+import spaceIcon from "../images/space.svg";
+import spaceIcon1 from "../images/18+.svg";
 
 function Home2(props) {
     const onClick = props.onClick;
@@ -16,31 +17,31 @@ function Home2(props) {
                 <SubjectCard
                     imgSrc={geoIcon}
                     imgAlt="An illustration of a globe"
-                    subject="Geography"
+                    subject="...У ТЕБЕ МІЖ НОГАМИ"
                     onClick={onClick}
                 />
                 <SubjectCard
                     imgSrc={histIcon}
                     imgAlt="An illustration of a shield"
-                    subject="History"
+                    subject="МЕДИЦИНА"
                     onClick={onClick}
                 />
                 <SubjectCard
                     imgSrc={sciIcon}
                     imgAlt="An illustration of a beaker"
-                    subject="Science"
+                    subject="Стрийська траса"
                     onClick={onClick}
                 />
                 <SubjectCard
                     imgSrc={spaceIcon}
                     imgAlt="An illustration of a meteor"
-                    subject="Space"
+                    subject="Не будь такий сиромудрий"
                     onClick={onClick}
                 />
                 <SubjectCard
-                    imgSrc={spaceIcon}
+                    imgSrc={spaceIcon1}
                     imgAlt="An illustration of a meteor"
-                    subject="Space"
+                    subject="ЖОЛУБАКИ РІДНИЙ КРАЙ"
                     onClick={onClick}
                 />
             </div>
